@@ -2,10 +2,6 @@
     <img src="public/casacriativa.png">
 </h1>
 
-## WorkShopDev
-
-
-
 # Tecnologias usadas :
 
 ## Front-end:
